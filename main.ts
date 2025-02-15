@@ -265,10 +265,6 @@ enum Ultrasonic_pin {
 
     u1 = 13,
 
-    //% block="(P16,P10)"
-
-    u2 = 1610,
-
     //% block="(P1,P14)"
 
     u3 = 114,
