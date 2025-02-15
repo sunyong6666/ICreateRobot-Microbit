@@ -1,0 +1,40 @@
+{
+    "name": "ic",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "ws2812b": "github:microsoft/pxt-ws2812b#v0.1.1",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "_locales/zh/ic-strings.json",
+        "_locales/ru/ic-strings.json",
+        "_locales/ja/ic-strings.json",
+        "_locales/ko/ic-strings.json",
+        "_locales/fr/ic-strings.json",
+        "_locales/ar/ic-strings.json",
+        "_locales/de/ic-strings.json",
+        "_locales/el/ic-strings.json",
+        "_locales/zh-TW/ic-strings.json",
+        "heart.cpp",
+        "MAX30105.cpp",
+        "MAX30105.h",
+        "shims.d.ts",
+        "enums.d.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.0.57",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
