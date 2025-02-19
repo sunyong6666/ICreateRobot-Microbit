@@ -1,6 +1,6 @@
 {
     "name": "icreaterobot",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "description": "",
     "license": "MIT",
     "dependencies": {
@@ -10,7 +10,6 @@
         "microphone": "*"
     },
     "files": [
-        "main.blocks",
         "main.ts",
         "README.md",
         "_locales/zh/icreaterobot-strings.json",
